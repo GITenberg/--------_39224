@@ -1,0 +1,30 @@
+_repo: '--------_39224'
+_version: 0.1.0
+alternative_title: Eirenika
+covers:
+- cover_type: archival
+  image_path: 39224-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Polemes, Ioannes
+    aliases:
+    - Πολέμης, Ιωάννης
+    - Polemis, Ioannis
+    birthdate: 1862
+    deathdate: 1924
+    gutenberg_agent_id: '35226'
+    url: http://www.gutenberg.org/2009/agents/35226
+description: ''
+gutenberg_issued: '2012-03-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39224'
+language: el
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Greek poetry, Modern'
+- !lcc 'PA'
+title: Ειρηνικά
+url: http://www.gutenberg.org/ebooks/39224
